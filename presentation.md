@@ -1,30 +1,31 @@
-##Welcome
+<section data-background="images/first.png">
+<h1 style="float:left">Robotic Vision</h1>
+<h3 style="float:left; color:#AD5353">Guru Nanak Dev Engineering College</h3>
+<!-- <img src="images/robo2.gif" style="float:right"> -->
+<!-- ![image](images/robo2.gif) -->
+</section>
 
 ---
 
-#Robotic Vision
-![image](images/robo2.gif)
+####Section 1
+#Robots revisited
 
 ---
 
-#Section 1
-##Robots revisited
+<h2>Robot: <span style="color:rgb(220, 54, 54)">A definition</span></h2>
+<ul><li class="fragment">
+A <span style="color:rgb(220, 54, 54)"><b>goal</b></span> oriented machine that can <span style="color:rgb(220, 54, 54)"><b>sense</b></span>, <span style="color:rgb(220, 54, 54)"><b>plan</b></span> and <span style="color:rgb(220, 54, 54)"><b>act</b></span>.
+<li class="fragment"> A machine that <span style="color:rgb(220, 54, 54)"><b>moves</b></span> (something) from A to B.</li>
+</ul>
 
 ---
 
-#Robot: A definition
-
-* A goal oriented machine that can **sense**, **plan** and **act**.
-* A machine that moves (something) from A to B.
+####Section 2
+#Senses
 
 ---
 
-#Section 2
-##Senses
-
----
-
-##The 5 senses
+##The <span style="color:rgb(220, 54, 54)">5</span> senses
 
 * sight
 * hearing
@@ -34,7 +35,8 @@
 
 ---
 
-##And some unrevealed
+##And some unrevealed...
+![arrow](images/arrow.png)
 
 ----
 
@@ -58,8 +60,8 @@
 
 ---
 
-#Section 3
-##Why not use GPS?
+####Section 3
+#Why not use GPS?
 
 ---
 
@@ -71,15 +73,13 @@ some slides to be inserted here...
 
 ---
 
----
-
-#Section 4
-##Vision
+####Section 4
+#Vision
 
 ---
 
 <section data-background="eye.jpg" style="text-align:left">
-<h3>Let's talk about Vision?</h3>
+<h3>Let's talk about <span style="color:rgb(220, 54, 54)">Vision?</span></h3>
 <ul><li class="fragment">A long range sensor
 <ul><li class="fragment">sense beyond our finger tips</li></ul></li>
 <li class="fragment">Can sense shape, color, motion</li>
@@ -91,4 +91,93 @@ some slides to be inserted here...
 
 ---
 
+<!-- vision images to be added here -->
+
+---
+
+####Section 5
+#Evolution of vision
+
+---
+
+##The (amazing) sense of <span style="color:rgb(220, 54, 54)">vision</span>
+The trilobites were among the most successful of all early animals, appearing 521 million years ago and roaming the oceans for over 270 million years.
+
+---
+
+<h2><span style="color:rgb(220, 54, 54)">Evolution</span> of the eye</h2>
+<ul type="square"><li class="fragment">Eye invented 540 million year ago</li>
+<li class="fragment">10 different eye designs</li>
+<li class="fragment">The lensed eye was invented 7 times</li></ul>
+<br /><br />
+<div class="fragment"  style="float:right; text-align:center"><span style="color:rgb(220, 54, 54)">Vision</span> <b>does need</b> a <span style="color:rgb(220, 54, 54)">light</span> source,<br /> but we evolved next to<br /> a <b>bright star</b>.</div>
+
+---
+
+<section data-background="screenshots/6.1.png"></section>
+<!-- Evolution of eye images goes here...... -->
+
+---
+
+<section data-background="screenshots/6.2.png"></section>
+
+---
+
+<section data-background="screenshots/6.3.png"></section>
+
+---
+
+<section data-background="screenshots/6.4.png"></section>
+
+---
+
+####Section 6
+#Principles of Vision
+
+---
+
+####Section 7
+#Human Vision
+
+---
+
+<section data-background="screenshots/7.1.png" class="fragment"></section>
+
+---
+
+<section data-background="screenshots/7.2.png" class="fragment"></section>
+
+---
+
+<section data-background="screenshots/7.3.png" class="fragment"></section>
+
+---
+
+<section data-background="screenshots/7.4.png" class="fragment"></section>
+
+---
+
+<section data-background="screenshots/7.5.png" class="fragment"></section>
+
+---
+
+<section data-background="screenshots/7.6.png" class="fragment"></section>
+
+---
+
+<section data-background="screenshots/7.7.png" class="fragment"></section>
+
+---
+
+<section data-background="screenshots/7.8.png" class="fragment"></section>
+
+---
+
+<section data-background="screenshots/7.9.png" class="fragment"></section>
+
+---
+
+<section data-background="screenshots/8.0.png" class="fragment"></section>
+
+---
 
