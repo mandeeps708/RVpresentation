@@ -1,37 +1,44 @@
-<section data-background="images/first.png">
-<h1 style="float:left">Robotic Vision</h1>
-<h3 style="float:left; color:#AD5353">Guru Nanak Dev Engineering College</h3>
-<!-- <img src="images/robo2.gif" style="float:right"> -->
-<!-- ![image](images/robo2.gif) -->
-</section>
+<section data-background="images/first.png"></section>
+#Robotic Vision
+>Guru Nanak Dev Engineering College
 
 ---
 
-####Section 1
-#Robots revisited
+##Robot: *A definition*
+- A *goal* oriented machine that can *sense*, *plan* and *act*. 
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+- A machine that *moves* (something) from A to B.
+<!-- .element: class="fragment" data-fragment-index="2" -->
 
 ---
 
-<h2>Robot: <span style="color:rgb(220, 54, 54)">A definition</span></h2>
-<ul><li class="fragment">
-A <span style="color:rgb(220, 54, 54)"><b>goal</b></span> oriented machine that can <span style="color:rgb(220, 54, 54)"><b>sense</b></span>, <span style="color:rgb(220, 54, 54)"><b>plan</b></span> and <span style="color:rgb(220, 54, 54)"><b>act</b></span>.
-<li class="fragment"> A machine that <span style="color:rgb(220, 54, 54)"><b>moves</b></span> (something) from A to B.</li>
-</ul>
+##The *5* senses
 
 ---
 
-####Section 2
-#Senses
+<section data-background="images/eye.jpg"></section>
+> ##Sight
 
 ---
 
-##The <span style="color:rgb(220, 54, 54)">5</span> senses
+<section data-background="images/hear.jpg"></section>
+> ##Hearing
 
-* sight
-* hearing
-* smell
-* touch
-* taste
+---
+
+<section data-background="images/smell.jpg"></section>
+> ##smell
+
+---
+
+<section data-background="images/taste.jpg"></section>
+> ##Hearing
+
+---
+
+<section data-background="images/touch.jpg"></section>
+> ##Touch
 
 ---
 
